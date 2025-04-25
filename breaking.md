@@ -16,4 +16,3 @@ In the below example for switches, the highlighed area shows the new format, not
 
 ![image](https://github.com/jimmyeao/TEAMS2HA/assets/5197831/c2cd4559-7a1c-4b11-8ce5-4cc315eb3f4d)
 
-
