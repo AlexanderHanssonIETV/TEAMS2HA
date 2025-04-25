@@ -8,7 +8,7 @@
 
 <H1>Teams2HA</H1>
 
-DONT FORGET TO ENABLE THE API IN TEAMS! test!
+DONT FORGET TO ENABLE THE API IN TEAMS!
 
  Settings, Privacy, scroll to bottom and under 3rd party api click Manage Api then enable it
 
